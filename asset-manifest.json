@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Smart-Expense-Tracker/static/css/main.c3c0115c.css",
+    "main.js": "/Smart-Expense-Tracker/static/js/main.37994eab.js",
+    "index.html": "/Smart-Expense-Tracker/index.html",
+    "main.c3c0115c.css.map": "/Smart-Expense-Tracker/static/css/main.c3c0115c.css.map",
+    "main.37994eab.js.map": "/Smart-Expense-Tracker/static/js/main.37994eab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3c0115c.css",
+    "static/js/main.37994eab.js"
+  ]
+}
